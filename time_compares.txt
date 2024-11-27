@@ -1,0 +1,4 @@
+Read Time: 0.0015 seconds
+Cleaning Time: 0.0039 seconds
+Tokenization Time: 0.0024 seconds
+Frequency Analysis Time: 0.0035 seconds
